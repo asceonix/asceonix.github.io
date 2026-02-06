@@ -1,7 +1,7 @@
 ---
 ---
 
-<img src="/assets/pfp.jpg" width="120" style="border-radius:50%; margin-bottom:20px;">
+<img src="/assets/pfp.jpeg" width="120" style="border-radius:50%; margin-bottom:20px;">
 
 ## Welcome
 
