@@ -1,6 +1,8 @@
 ---
 ---
 
+<img src="/assets/pfp.jpg" width="120" style="border-radius:50%; margin-bottom:20px;">
+
 ## Welcome
 
 I’m **ASCE**, a cybersecurity enthusiast and Hack The Box player.
