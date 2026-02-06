@@ -1,13 +1,8 @@
 ---
-layout: home
 ---
 
-## Welcome to ASCEONIX
+## Latest Posts
 
-This site documents my cybersecurity learning journey, including:
-
-- Hack The Box write-ups
-- Web security challenges
-- Logic flaws and experimentation
-
-### Latest posts
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
